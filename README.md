@@ -38,7 +38,9 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 
 效果图都是按照如下TAG生成的
 >{best quality}, {{masterpiece}}, {highres}, original, extremely detailed wallpaper, {an extremely delicate and beautiful},2girls, arms_behind_back, bandaid, beach, bikini, bikini_top, black_bikini, blonde_hair, blue_eyes, blue_hair, bottomless, bow, breasts, day, hair_ornament, hairclip, horizon, long_hair, looking_at_viewer, micro_bikini, multiple_girls, navel, navel_piercing, nipple_piercing, no_panties, ocean, outdoors, pasties, piercing, pussy, red_bow, shore, short_hair, smile, swimsuit, tattoo, twintails, water, art by 特定模型名称
+
 >Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name
+
 >Steps: 28, Sampler: Euler a, CFG scale: 7.5, Seed: -1, Size: 512x768, Model hash: 925997e9, Seed resize from: -1x-1, Denoising strength: 0.75, Clip skip: 2, ENSD: 31337
 
 <details>
