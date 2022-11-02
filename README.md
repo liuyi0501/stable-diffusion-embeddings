@@ -41,5 +41,5 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 <details>
   <summary>佩城</summary>
   
-  ![](https://github.com/710765989/my_textual_inversions/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/keta-nsfw.jpg)
+  ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/petra-200000.png)
 </details>
