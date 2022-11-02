@@ -5,7 +5,7 @@
 本模型均基于Stable Diffusion。
 Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 
-`embeddings`文件夹下是选择出来的的`，pt`模型
+`embeddings`文件夹下是选择出来的的`.pt`模型
 
 `textual_inversion`文件夹下是训练过程中的中间版本
 
