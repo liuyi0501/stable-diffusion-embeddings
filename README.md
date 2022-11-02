@@ -12,6 +12,9 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 官方webui项目地址：
 >https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
+# 使用方法
+
+把.pt放到embeddings里，生成图片时加个“art by 文件名”的tag，例如art by badapple-200000
 # 更新历史：
 - 2022.11.02
   - 风格模型
