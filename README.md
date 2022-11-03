@@ -59,8 +59,6 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   <summary>aki99</summary>
   
   ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/aki99-100000.png)
-<<<<<<< HEAD
-=======
 </details>
 
 <details>
@@ -74,5 +72,7 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   
   ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/大猫板蓝根-100000.png)
 </details>
+</details>
+/details>
 1639 (更新粉红黏黏怪和大猫板蓝根画师风格模型)
 </details>
