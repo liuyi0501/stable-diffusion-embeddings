@@ -13,6 +13,10 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 >https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 # 更新历史：
+- 2022.11.03
+  - 风格模型
+    - 粉红黏黏怪 粉红黏黏怪-100000.pt
+    - 大猫板蓝根 大猫板蓝根-100000.pt
 - 2022.11.02
   - 风格模型
     - 佩城 petra-200000.pt
@@ -22,6 +26,10 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 # 目前包含模型
 
 风格模型：
+- 粉红黏黏怪(2022.11.03):
+  - **NSFW**
+- 大猫板蓝根(2022.11.03):
+  - **NSFW**
 - aki99(2022.11.02):
   - **NSFW**
   - 个人认为画风很立体
@@ -51,4 +59,20 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   <summary>aki99</summary>
   
   ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/aki99-100000.png)
+<<<<<<< HEAD
+=======
+</details>
+
+<details>
+  <summary>粉红黏黏怪</summary>
+  
+  ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/粉红黏黏怪-100000.png)
+</details>
+
+<details>
+  <summary>大猫板蓝根</summary>
+  
+  ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/大猫板蓝根-100000.png)
+</details>
+1639 (更新粉红黏黏怪和大猫板蓝根画师风格模型)
 </details>
