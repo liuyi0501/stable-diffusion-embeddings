@@ -26,7 +26,7 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
     - badapple badapple-200000.pt
     - aki99 aki99-100000.pt
 
-##要饭
+## 要饭
 ![](https://pic1.imgdb.cn/item/6366837016f2c2beb1de7a5f.jpg)
 ![](https://pic1.imgdb.cn/item/6366841316f2c2beb1e06651.png)
 每天租GPU服务器训练得花30多，帮忙减点赤字罢
