@@ -13,6 +13,9 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 >https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 # 更新历史：
+- 2022.11.05
+  - 人物模型
+    铃兰 铃兰-12500.pt
 - 2022.11.03
   - 风格模型
     - 粉红黏黏怪 粉红黏黏怪-100000.pt
@@ -24,7 +27,10 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
     - aki99 aki99-100000.pt
     
 # 目前包含模型
-
+人物模型
+- 铃兰(2022.11.05):
+  - 训练下来，感觉AI还是不太理解垂耳狐狸。
+  - 你可以加点TAG类似：**铃兰, loli, fox_ears, fox_tail, nine talis,  multiple_tails, look_to_viewer, very low height**
 风格模型：
 - 粉红黏黏怪(2022.11.03):
   - **NSFW**
@@ -43,6 +49,14 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 后续有更新也会往这里上传
 
 # 效果图
+<details>
+  <summary>人物</summary>
+  <details>
+  <summary>铃兰</summary>
+  
+  ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/铃兰-12500.png)
+  </details>
+</details>
 <details>
   <summary>BadApple</summary>
   
