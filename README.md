@@ -25,7 +25,13 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
     - 佩城 petra-200000.pt
     - badapple badapple-200000.pt
     - aki99 aki99-100000.pt
-    
+
+##要饭
+![](https://pic1.imgdb.cn/item/6366837016f2c2beb1de7a5f.jpg)
+![](https://pic1.imgdb.cn/item/6366841316f2c2beb1e06651.png)
+每天租GPU服务器训练得花30多，帮忙减点赤字罢
+如果有训练的需要，可以加我QQ(2042456367)代训练。
+
 # 目前包含模型
 人物模型
 - 铃兰(2022.11.05):
