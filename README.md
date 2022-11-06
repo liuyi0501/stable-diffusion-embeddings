@@ -78,7 +78,7 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/morikoke_elf-20000.png)
   </details>
 
-
+<details>
   <summary>铃兰</summary>
   
   ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/铃兰-12500.png)
