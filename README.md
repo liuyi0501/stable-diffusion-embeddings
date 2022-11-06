@@ -14,6 +14,8 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 
 # 更新历史：
 - 2022.11.06
+  - 人物模型（存疑）
+    - もり苔 画师的精灵 morikoke_elf-20000.pt
   - 风格模型
     - Sakimi Chan sakimichan-100000.pt
 - 2022.11.05
@@ -37,6 +39,9 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 
 # 目前包含模型
 ## 人物模型
+- もり苔 画师的精灵 (2022.11.06):
+  - **NSFW**
+  - 本来是想练画风的，但是因为偷懒，把もり苔 画师的《[Morikoke] Chijoku no Mori -Elf Kanraku- ch.1-10》下下来当训练集了，于是模型自然而然地在产精灵。
 - 铃兰(2022.11.05):
   - 训练下来，感觉AI还是不太理解垂耳狐狸。
   - 你可以加点TAG类似：**铃兰, loli, fox_ears, fox_tail, nine talis,  multiple_tails, look_to_viewer, very low height**
@@ -68,6 +73,12 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 <details>
   <summary>人物</summary>
   <details>
+    <summary>もり苔 画师的精灵 </summary>
+  
+  ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/morikoke_elf-20000.png)
+  </details>
+
+
   <summary>铃兰</summary>
   
   ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/铃兰-12500.png)
