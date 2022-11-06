@@ -36,11 +36,12 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 如果有训练的需要，可以加我QQ(2042456367)代训练。
 
 # 目前包含模型
-人物模型
+## 人物模型
 - 铃兰(2022.11.05):
   - 训练下来，感觉AI还是不太理解垂耳狐狸。
   - 你可以加点TAG类似：**铃兰, loli, fox_ears, fox_tail, nine talis,  multiple_tails, look_to_viewer, very low height**
-风格模型：
+  
+## 风格模型
 - Sakimi Chan(2022.11.06):
   - 使用的时候建议多试几次
   - 我测试下来，设置
