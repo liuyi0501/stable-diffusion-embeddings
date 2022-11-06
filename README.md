@@ -13,9 +13,12 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 >https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 # 更新历史：
+- 2022.11.06
+  - 风格模型
+    - Sakimi Chan sakimichan-100000.pt
 - 2022.11.05
   - 人物模型
-    铃兰 铃兰-12500.pt
+    - 铃兰 铃兰-12500.pt
 - 2022.11.03
   - 风格模型
     - 粉红黏黏怪 粉红黏黏怪-100000.pt
@@ -38,6 +41,12 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   - 训练下来，感觉AI还是不太理解垂耳狐狸。
   - 你可以加点TAG类似：**铃兰, loli, fox_ears, fox_tail, nine talis,  multiple_tails, look_to_viewer, very low height**
 风格模型：
+- Sakimi Chan(2022.11.06):
+  - 使用的时候建议多试几次
+  - 我测试下来，设置
+    - 8-14 steps
+    - DDIM 
+  - 会更符合目标画风
 - 粉红黏黏怪(2022.11.03):
   - **NSFW**
 - 大猫板蓝根(2022.11.03):
@@ -63,6 +72,13 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/铃兰-12500.png)
   </details>
 </details>
+
+<details>
+  <summary>Sakimi Chan</summary>
+  
+  ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/sakimichan-100000.png)
+</details>
+
 <details>
   <summary>BadApple</summary>
   
