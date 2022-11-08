@@ -13,8 +13,11 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 >https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 # 更新历史：
+- 2022.11.09
+  - 风格模型
+    - MだSたろう mda-starou-33500
 - 2022.11.07
-  - 画风模型
+  - 风格模型
     - hiten hiten-95000.pt
 - 2022.11.06
   - 人物模型（存疑）
@@ -50,6 +53,8 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   - 你可以加点TAG类似：**铃兰, loli, fox_ears, fox_tail, nine talis,  multiple_tails, look_to_viewer, very low height**
   
 ## 风格模型
+- MだSたろう(2022.11.09):
+  - **NSFW**
 - Hiten (2022.11.07):
   - 人物风格比较像了，但是那种淡淡的，若隐若现的样式还需要TAG补充
 - Sakimi Chan(2022.11.06):
@@ -88,6 +93,12 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   
   ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/铃兰-12500.png)
   </details>
+</details>
+
+<details>
+  <summary>MだSたろう</summary>
+  
+  ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/mda-starou-33500.png)
 </details>
 
 <details>
