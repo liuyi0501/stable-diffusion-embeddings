@@ -13,9 +13,12 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
 >https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 # 更新历史：
+- 2022.11.10
+  - 风格模型
+    - ICELAKE ICECAKE-40000.pt
 - 2022.11.09
   - 风格模型
-    - MだSたろう mda-starou-33500
+    - MだSたろう mda-starou-33500.pt
 - 2022.11.07
   - 风格模型
     - hiten hiten-95000.pt
@@ -53,6 +56,9 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   - 你可以加点TAG类似：**铃兰, loli, fox_ears, fox_tail, nine talis,  multiple_tails, look_to_viewer, very low height**
   
 ## 风格模型
+- ICECAKE(2022.11.10):
+  - 光影很好
+  - 因为训练集中有脏脚底的拆分，所以最好在**Negative Tag**中加入**dirty**
 - MだSたろう(2022.11.09):
   - **NSFW**
 - Hiten (2022.11.07):
@@ -93,6 +99,12 @@ Stable Diffusion checkpoint: animefull.ckpt [925997e9]
   
   ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/铃兰-12500.png)
   </details>
+</details>
+
+<details>
+  <summary>ICECAKE</summary>
+  
+  ![](https://github.com/liuyi0501/stable-diffusion-embeddings/raw/main/embeddings/ICECAKE-40000.png)
 </details>
 
 <details>
