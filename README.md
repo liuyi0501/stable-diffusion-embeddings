@@ -1,5 +1,7 @@
 # 欢迎liuyi0501的stable-diffusion-embeddings库
-
+来自b站Up“2481asd”（https://space.bilibili.com/46453008）
+如果方便，请star本仓库或b站一键三连
+非常感谢
 这里存放着我个人训练的模型
 
 本模型均基于Stable Diffusion。
